@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include< FirstOrganizedCMakeConfig.h >
+#include<FirstOrganizedCMakeConfig.h>
 #include<log_lib/print_log.h>
 
 void hello_world() {
